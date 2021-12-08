@@ -6,7 +6,7 @@ para traducir estas interfaces de escritorio a diseños móviles.
 
 ## Pagina de noticias
 
-![Pagina de noticias.png]
+![Pagina de noticias](Pagina de noticias.png)
 
 ## Pagina de bicicletas
 
