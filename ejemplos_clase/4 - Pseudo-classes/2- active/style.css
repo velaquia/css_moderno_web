@@ -1,0 +1,9 @@
+button {
+  padding: 40px;
+  font-size: 24px;
+}
+
+button:active {
+  border: 2px solid
+  red;
+}
