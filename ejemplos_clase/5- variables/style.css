@@ -20,3 +20,15 @@ div {
 #contenedor3 {
   background-color: var(--yellow);
 }
+
+.prueba{
+  color:green;
+}
+/* Esto es un comentario en CSS */
+/* Comienza con /*
+dejando todo lo que está dentro comentado
+.prueba1{
+  color:blue;
+}
+y termina con */
+
