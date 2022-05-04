@@ -14,4 +14,8 @@ Dentro de esta carpeta encontrará los siguientes ejemplos:
 
 Su misión, si decida aceptarla, es observar los ejemplos y utilizarlos para crear un diseño basado en ellos. Deberá traducir uno estos ejemplos de interfaces de escritorio a diseños móviles. No es necesario que se vea exactamente como en la imagen, adaptele a un diseño más minimalista y apto móvil según lo visto en clase.
 
+Su HTML deberá tener al menos:
+- 1 Header con navbar o 1 footer con los datos de contacto
+- Deberá tener al menos 1 sección y dentro elementos hijos agrupados por display flex o grilla para que sea responsivo.
+
 ¡Mucha suerte!
