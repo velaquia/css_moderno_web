@@ -1,6 +1,8 @@
 # Ejercicio de profundización
 
-Para esta tarea desafio aplicar lo aprendido con el responsive design y el "Minimalismo Moderno".
+__IMPORTANTE__: Tenga en cuenta que este ejercicio puede demorar un montón de tiempo, realice hasta donde usted se sienta satisfecho y no pierda el foco en el resto de la cursada o el proyecto.
+
+Para esta desafio deberá aplicar lo aprendido con el responsive design y el "Minimalismo Moderno".
 
 Dentro de esta carpeta encontrará los siguientes ejemplos:
 
